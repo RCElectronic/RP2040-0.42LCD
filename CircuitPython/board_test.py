@@ -1,6 +1,10 @@
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
+# Original file code from Adafruit Industries learning pages:
+# https://learn.adafruit.com/adafruit-oled-featherwing/circuitpython-usage
+# https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/overview
+# 
 # Added code for RGB pixel, screen dimensions (72x40) and small changes to
 # function with CircuitPython 9.x.x
 # Slight change to access colorwheel code (now in rainbowio)
