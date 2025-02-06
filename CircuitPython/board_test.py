@@ -3,6 +3,7 @@
 
 # Added code for RGB pixel, screen dimensions (72x40) and small changes to
 # function with CircuitPython 9.x.x
+# Slight change to access colorwheel code (now in rainbowio)
 # Use the regular Pico board uf2: https://circuitpython.org/board/raspberry_pi_pico/
 # Download the library bundle and copy the modules into the lib folder on the pico
 # (You may need to create a lib folder):
