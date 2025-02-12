@@ -1,6 +1,7 @@
 
 # RP2040-0.42 OLED 
 
+# Updated files after Jan 31,2025 to work with CircuitPython 9.x.x
 
 ![image](https://github.com/01Space/RP2040-0.42LCD/blob/main/image/RP2040-0.42LCD.jpg)
 
